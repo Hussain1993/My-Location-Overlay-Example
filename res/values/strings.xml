@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">MyLocationOverlay</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_my_location_overlay">My Location Overlay</string>
+    <string name="GoogleMapsAPIKey">0s9mQWucWLx1vm9pMvu2GOcWUIe1J1KjNwLltOw</string>
+
+</resources>
