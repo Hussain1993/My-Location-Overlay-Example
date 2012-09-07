@@ -21,7 +21,7 @@ is a command window; as I am on a Mac I will be using
 the Terminal application. When running the
 application for the first time this is what you
 should see:
-![Alt text](/Users/Hussain/Desktop/ScreenShot2012-09-07at14.46.36.png)
+[Screenshot](http://cloud.github.com/downloads/Hussain1993/My-Location-Overlay-Example/ScreenShot2012-09-07at14.46.36.png)
 	
 Hussain Miah (http://hussain1993.tumblr.com/)
 hmiah.1993@gmail.com 
