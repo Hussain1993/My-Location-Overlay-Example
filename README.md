@@ -39,7 +39,16 @@ provide it a longitude and latitude. I have found a <a href="http://www.findlati
 Find a location on the map that is provided, this can be your home or your favorite place in the world :) The box below the
 map will display the longitude and latitude of the chosen place; keep a note of them.<br/>
 Go to your command window and type the following:<br/>
-"geo fix <b>longitude</b> <b>latitude</b>"
+"geo fix <b>longitude</b> <b>latitude</b>"<br/>
+Where the longitude is the longitude of the chosen location and the latitude is the latitude of the chosen location<br/>
+It should look a little like this:<br/>
+[Screen shot 3](http://cloud.github.com/downloads/Hussain1993/My-Location-Overlay-Example/Screen%20Shot%202012-09-07%20at%2015.29.02.png) 
+
+<p>Now make sure that you have both the command window and Android Simulator open side-by-side, press the enter
+button on the command that you have just written; the Android Simulator should now animate to and 
+zoom into the location that it was told to. It will place a flashing blue dot to represent the location that was passed to
+it. As seen in the following screen shot</p>
+[Screen shot 4](http://cloud.github.com/downloads/Hussain1993/My-Location-Overlay-Example/Screen%20Shot%202012-09-07%20at%2015.33.08.png)
 
 
 	
