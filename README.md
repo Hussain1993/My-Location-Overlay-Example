@@ -27,7 +27,7 @@ should see this:<br/>
 working properly and the way that is should be. After this we have to create 
 a Telenet client and make a connection to the Android simulator, so bring
 out your command prompt and type the following:<br/>
-<b>telnet localhost “your_simulator_number“</b><br/>
+<b>telnet localhost “your_simulator_number“</b>(Without the quotes)<br/>
 “your_simulator_number“ is the number on the top of the simulator
 window, you can find this in screen shot one. This is how your command
 prompt window should look like after you have pressed enter.<br/>
@@ -36,6 +36,12 @@ prompt window should look like after you have pressed enter.<br/>
 3. We’re almost there! Now have both the command window open and the Android Simulator open
 so that you can see what is going on. To send a location to the Android Simulator you need to
 provide it a longitude and latitude. I have found a <a href="http://www.findlatitudeandlongitude.com/">site</a> that can help you with this.
+Find a location on the map that is provided, this can be your home or your favorite place in the world :) The box below the
+map will display the longitude and latitude of the chosen place; keep a note of them.<br/>
+Go to your command window and type the following:<br/>
+"geo fix <b>longitude</b> <b>latitude</b>"
+
+
 	
 Hussain Miah (http://hussain1993.tumblr.com/)
 hmiah.1993@gmail.com 
