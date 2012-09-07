@@ -27,7 +27,11 @@ should see this:<br/>
 working properly and the way that is should be. After this we have to create 
 a Telenet client and make a connection to the Android simulator, so bring
 out your command prompt and type the following:<br/>
-<b>telnet localhost “your_simulator_number“</b>
+<b>telnet localhost “your_simulator_number“</b><br/>
+“your_simulator_number“ is the number on the top of the simulator
+window, you can find this in screen shot one. This is how your command
+prompt window should look like after you have pressed enter.<br/>
+[Screen shot 2](http://cloud.github.com/downloads/Hussain1993/My-Location-Overlay-Example/Screen%20Shot%202012-09-07%20at%2015.16.39.png)
 	
 Hussain Miah (http://hussain1993.tumblr.com/)
 hmiah.1993@gmail.com 
